@@ -67,10 +67,6 @@ main section:hover{
   color: rgb(240, 112, 112) ;
 }
 
-#Icontact{
-  display: flex;
-  justify-content:space-between;
-}
 main section div{
   border-left: solid salmon 2px;
   display: flex;
